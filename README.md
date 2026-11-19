@@ -1,36 +1,35 @@
+<h1 align="center">Hey, I'm Yegor 👋</h1>
+
 <p align="center">
-  <strong>Speech systems · automation · cloud tooling</strong><br>
-  Software engineer in Bratislava · ICT at STU FEI
+  <strong>Software engineer · AI, backend & automation</strong><br>
+  Based in Bratislava · Studying ICT at STU FEI
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=MvxVdjCIrx8">Watch BP</a> ·
   <a href="https://brusnyak.github.io/cv/">CV</a> ·
   <a href="https://www.linkedin.com/in/yegor-brusnyak/">LinkedIn</a>
 </p>
 
-I build software that connects models, APIs and workflows. I’m interested in practical tools for teams: fewer repetitive steps, clearer information and work that is easier to inspect.
+## A bit about me
 
-### BP · Speech across languages
+I like building things that are useful beyond the demo — software that connects systems, makes repetitive work easier, and holds up when something goes wrong.
 
-Speech translation with browser captions and translated audio. My bachelor thesis work covers the pipeline, model integration and evaluation. The recorded demo shows English speech translated into Slovak; audience routing remains experimental.
+I'm studying ICT at STU FEI and exploring the space between **software engineering, applied AI, and building products**. I enjoy both the technical side of a problem and figuring out whether it's worth solving in the first place.
 
-[Recorded demo](https://www.youtube.com/watch?v=MvxVdjCIrx8) · [Project site](https://brusnyak.github.io/bp/) · [Code & measured results](https://github.com/brusnyak/bp#results--data)
+## What I'm interested in
 
-### Agent Router · Coordinating agent work
+- **Applied AI** — connecting models to real workflows, including speech and language systems.
+- **Backend & systems** — APIs, data, reliability, and tools that are easy to inspect.
+- **Automation** — making complex or repetitive processes simpler.
+- **Product building** — taking an idea from a rough prototype toward something people can actually use.
 
-A local-first control plane for routing tasks to agent tools, running bounded jobs and recording outcomes. I’m working on verification and failure recovery. Experimental; unattended multi-machine operation is not production-validated.
+## Tools I work with
 
-[Code & quick start](https://github.com/brusnyak/agent-router) · [How it works](https://github.com/brusnyak/agent-router#how-it-works)
-
-### Domovyk · Planning a cloud exit
-
-A Go CLI for inspecting AWS resources before planning a move to EU cloud providers. Current scope: read-only discovery, portability scoring and limited price comparison. Pre-alpha; it does not execute migrations.
-
-[Code & current limits](https://github.com/brusnyak/domovyk)
+**Python · TypeScript · JavaScript · Go · SQL**  
+FastAPI · React · Next.js · PostgreSQL · Docker · GitHub Actions
 
 ---
 
-**Working with:** Python · TypeScript · SQL · Go · FastAPI · PostgreSQL · Docker
-
-I document inputs, outputs, failure cases and measurements alongside the code. For engineering opportunities or a practical workflow to discuss, [connect on LinkedIn](https://www.linkedin.com/in/yegor-brusnyak/).
+<p align="center">
+  <sub>Always learning, building, and looking for interesting engineering problems.</sub>
+</p>
