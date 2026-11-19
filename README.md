@@ -1,7 +1,6 @@
-<h1 align="center">Hey, I'm Yegor!</h1>
+<h1 align="center">YEllow + GORgeous, I'm Yegor</h1>
 
 <p align="center">
-  <sub>YEllow + GORgeous. Close enough, heh.</sub><br>
   ICT student at STU Bratislava
 </p>
 
